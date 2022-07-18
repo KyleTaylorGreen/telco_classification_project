@@ -52,7 +52,7 @@ To reproduce this project:
 ### Key Drivers of Churn: Electronic Check, Monthly Charges
 
 ### Model:
- - Logistic Regression had the best performance and had **80.67%** accuracy on testing data.
+ - Logistic Regression had the best performance and could predict churning customers with **80.67%** accuracy on testing data.
  - Beat baseline accuracy by **9.86%**
 
 ### Recommendations: 
